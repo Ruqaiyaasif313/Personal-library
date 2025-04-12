@@ -1,0 +1,44 @@
+[
+  {
+    "title" : "Aab-e-hayat",
+    "author" : "Umera Ahmed",
+    "publication_year" : 2019,
+    "genre": "Novel",
+    "read_status": false,
+    "added_data":"2025-03-11 11:38:40"
+  },
+{
+  "title" : "Mushaf",
+    "author" : "Nimra Ahmed",
+    "publication_year" : 2014,
+    "genre": "novel",
+    "read_status": false,
+    "added_data":"2025-03-11 11:38:40"
+}
+  {
+  "title" : "Mushaf",
+    "author" : "Nimra Ahmed",
+    "publication_year" : 2014,
+    "genre": "novel",
+    "read_status": false,
+    "added_data":"2025-03-11 11:38:40"
+}
+{
+  "title" : "Statistic"
+    "author" : "Shahid jamal",
+    "publication_year" : 2009,
+    "genre": "states",
+    "read_status": false,
+    "added_data":"2025-03-11 11:38:40"
+}
+  {
+  "title" : "Statistic"
+    "author" : "Shahid jamal",
+    "publication_year" : 2009,
+    "genre": "states",
+    "read_status": false,
+    "added_data":"2025-03-11 11:38:40"
+}
+
+]
+
